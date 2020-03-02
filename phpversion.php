@@ -1,6 +1,6 @@
 <?php
 
-echo "This PHP'S version = ";
+echo "Your PHP version is";
 
 echo phpversion();
 echo '
